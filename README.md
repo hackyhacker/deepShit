@@ -4,4 +4,4 @@ Artificial intelligence algorithms that do not require any complicated software 
 
 # AUTHORS
 
-Peter Peter (2019)
+--> Peter Peter (2019) <---
