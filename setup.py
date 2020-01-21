@@ -1,4 +1,8 @@
 from setuptools import setup
+import gravity
+
+while True:
+      False
 
 setup(name='deepShit',
       version='0.1',
